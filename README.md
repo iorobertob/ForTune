@@ -1,6 +1,6 @@
 ![Alt text](https://github.com/iorobertob/ForTune/blob/master/IO_Visuals/digitalTropical_1.png "Optional title")
 
-# ForTune
+# FortTune
 Multimedia show at the VIII Fort Kaunas-Lithuania
 
 Performance and sound art jam, happening at the VIII Fort in Kaunas, Lithuania. October 15th, 2016.
